@@ -1,2 +1,2 @@
-# machine-learning-polynomial-regression
-machine learning polynomial regression
+# machine-learning
+machine learning
